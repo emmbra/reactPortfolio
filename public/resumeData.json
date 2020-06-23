@@ -4,18 +4,17 @@
     "occupation":"Full Stack Web Developer",
     "description":"with proficiency in the MERN stack and the software development lifecycle. Methodical problem solver known for leadership, attention to detail, and taking initiative to find creative solutions to complex issues. Committed to lifelong learning with a passion for expanding my knowledge.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Full stack web developer with a background in agriculture and a passion for coding. Recently completed the UC Berkeley Extension School Full Stack Web Development Boot Camp and am looking to begin my career in web development. I enjoy toiling in the garden, hanging out with my dog, and annoying my wife.",
     "contactmessage":"Get in touch:",
     "email": "emmett.brady@gmail.com",
-    "phone": "740-504-9127",
+    "phone": "(740) 504-9127",
     "address":{
-      "street":"(Your Street)",
       "city":"Bay Area",
       "state":"California",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "94803"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"https://docs.google.com/document/d/1oQOFZ8np1CBZNw2v9wDN0H1oTmhc7FD3a_V9pSs9ABE/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
