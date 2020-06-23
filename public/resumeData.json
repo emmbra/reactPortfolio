@@ -93,34 +93,23 @@
     "projects": [
       {
         "title":"Run to the Sun",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "category":"Full stack MERN app for runners to form teams and compete against other teams in a virtual relay race",
+        "image":"runtothesun.png",
+        "url":"https://github.com/emmbra/project3"
       },
       {
         "title":"Fresh Lemons",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"Full stack MERN app for users to find and rate movies as well as view ratings by other users",
+        "image":"freshlemons.png",
+        "url":"https://github.com/emmbra/project2"
       },
       {
         "title":"Run Wild",
         "category":"Application for trail runners to find trails based on city that also shows current weather and five day forecast for that city",
         "image":"runwild.png",
         "url":"https://github.com/emmbra/project1"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
+
     ]
   },
   "testimonials":{
