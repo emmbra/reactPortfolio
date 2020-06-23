@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Emmett Brady",
+    "occupation":"Full Stack Web Developer",
+    "description":"with proficiency in the MERN stack and the software development lifecycle. Methodical problem solver known for leadership, attention to detail, and taking initiative to find creative solutions to complex issues. Committed to lifelong learning with a passion for expanding my knowledge.",
+    "image":"profilepic.jpg",
+    "bio":"Full stack web developer with a background in agriculture and a passion for coding. Recently completed the UC Berkeley Extension School Full Stack Web Development Boot Camp and am looking to begin my career in web development. I enjoy toiling in the garden, hanging out with my dog, and annoying my wife.",
+    "contactmessage":"Get in touch:",
+    "email": "emmett.brady@gmail.com",
+    "phone": "(740) 504-9127",
+    "address":{
+      "city":"Bay Area",
+      "state":"California",
+      "zip": "94803"
+    },
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/1oQOFZ8np1CBZNw2v9wDN0H1oTmhc7FD3a_V9pSs9ABE/edit?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/emmett-brady/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/emmbra",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"UC Berkeley Extension",
+        "degree":"Full Stack Web Development Certificate",
+        "graduated":"2020",
+        "description":"12 week full-time program focused on programming skills including HTML5, CSS3, JavaScript, jQuery, Bootstrap, Semantic UI, MongoDB, MySQL, Express, React.js, and Node.js"
+      },
+      {
+        "school":"Kenyon College",
+        "degree":"Bachelor of Arts in Anthropology",
+        "graduated":"2009",
+        "description":"Degree in Anthropology with a focus on sustainable agriculture and food systems."
+      }
+    ],
+    "work":[
+      {
+        "company":"Marin County Dept. of Agriculture, Weights & Measures",
+        "title":"Agricultural Inspector III",
+        "years":"2014-2020",
+        "description":"Oversaw Marin Organic Certified Agriculture (MOCA) organic certification program which certifies 50 operations in the Bay Area and grossed $150,000 annually. Supervised and trained a team of 4 agricultural inspectors. MOCA received the USDA Data Integrity Award three years in a row due to workflow changes implemented when I took over the program. Performed agricultural and weights & measures inspections, issued fines and violations, and followed up until issues were corrected resulting in greater environmental and consumer protection."
+      },
+      {
+        "company":"Agricultural Institute of Marin",
+        "title":"Farmers Market Manager",
+        "years":"2010-2014",
+        "description":"Oversaw weekly Bay Area farmers markets with up to 150 vendors generating revenue ranging from $2,000-10,000/week with attendance up to 15,000/day. Assisted in operations management of all AIM farmers markets. Maintained and updated social media and website. Managed the volunteer program and supervised assistant market managers."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Run to the Sun",
+        "category":"Full stack MERN app for runners to form teams and compete against other teams in a virtual relay race",
+        "image":"runtothesun.png",
+        "url":"https://github.com/emmbra/project3"
+      },
+      {
+        "title":"Fresh Lemons",
+        "category":"Full stack MERN app for users to find and rate movies as well as view ratings by other users",
+        "image":"freshlemons.png",
+        "url":"https://github.com/emmbra/project2"
+      },
+      {
+        "title":"Run Wild",
+        "category":"Application for trail runners to find trails based on city that also shows current weather and five day forecast for that city",
+        "image":"runwild.png",
+        "url":"https://github.com/emmbra/project1"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
