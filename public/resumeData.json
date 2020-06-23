@@ -32,30 +32,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UC Berkeley Extension",
+        "degree":"Full Stack Web Development Certificate",
+        "graduated":"2020",
+        "description":"12 week full-time program focused on programming skills including HTML5, CSS3, JavaScript, jQuery, Bootstrap, Semantic UI, MongoDB, MySQL, Express, React.js, and Node.js"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Kenyon College",
+        "degree":"Bachelor of Arts in Anthropology",
+        "graduated":"2009",
+        "description":"Degree in Anthropology with a focus on sustainable agriculture and food systems."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Marin County Dept. of Agriculture, Weights & Measures",
+        "title":"Agricultural Inspector III",
+        "years":"2014-2020",
+        "description":"Oversaw Marin Organic Certified Agriculture (MOCA) organic certification program which certifies 50 operations in the Bay Area and grossed $150,000 annually. Supervised and trained a team of 4 agricultural inspectors. MOCA received the USDA Data Integrity Award three years in a row due to workflow changes implemented when I took over the program. Performed agricultural and weights & measures inspections, issued fines and violations, and followed up until issues were corrected resulting in greater environmental and consumer protection."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Agricultural Institute of Marin",
+        "title":"Farmers Market Manager",
+        "years":"2010-2014",
+        "description":"Oversaw weekly Bay Area farmers markets with up to 150 vendors generating revenue ranging from $2,000-10,000/week with attendance up to 15,000/day. Assisted in operations management of all AIM farmers markets. Maintained and updated social media and website. Managed the volunteer program and supervised assistant market managers."
       }
     ],
     "skills":[
@@ -92,22 +92,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Run to the Sun",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Fresh Lemons",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Run Wild",
+        "category":"Application for trail runners to find trails based on city that also shows current weather and five day forecast for that city",
+        "image":"runwild.png",
+        "url":"https://github.com/emmbra/project1"
       },
       {
         "title":"Resume Website",
