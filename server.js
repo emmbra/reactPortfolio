@@ -15,10 +15,10 @@ app.use(express.json());
 // route for index.js
 app.use(express.static("public"));
 
-// route for index.html
-app.get("/", function(req, res) {
-  res.sendFile(path.join(__dirname, "/public/index.html"));
-});
+// // route for index.html
+// app.get("/", function(req, res) {
+//   res.sendFile(path.join(__dirname, "/public/index.html"));
+// });
 
 app.listen(PORT, function () {
     console.log("Listening on PORT " + PORT);
